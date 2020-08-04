@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#F64B15</color>
+    <color name="colorPrimaryDark">#F64B15</color>
+    <color name="colorAccent">#F64B15</color>
+
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#F64B15</color>
+    <color name="gradient_end_color">#F64B15</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#fff</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+</resources>
